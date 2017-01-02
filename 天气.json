@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "location": {
+        "id": "WX4FBXXFKE4F",
+        "name": "北京",
+        "country": "CN",
+        "path": "北京,北京,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "now": {
+        "text": "霾",
+        "code": "31",
+        "temperature": "-1"
+      },
+      "last_update": "2017-01-01T15:45:00+08:00"
+    }
+  ]
+}
